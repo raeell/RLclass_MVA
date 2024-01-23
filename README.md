@@ -15,9 +15,9 @@ MDP definition, policies and value functions, definition of optimality, state di
 **Chapter 2: Characterizing value functions: the Bellman equations**  
 State-action value functions, dynamic programming evaluation and optimality Bellman equations, value iteration, (modified) policy iteration, asynchronous dynamic programming, linear programming.  
 **Chapter 3: Learning value functions**  
-Approximate value and policy iteration, AVI as a series of supervised learning problems, stochastic gradient descent for AVI, temporal difference methods, Q-learning, fitted Q-iteration. Overview of key intrinsic challenges in RL.  
-**Chapter 4: Deep Q-Networks**  
-Neural network architecture for value functions, DQN, improvements on DQN.  
+Approximate value and policy iteration, AVI as a series of supervised learning problems, stochastic gradient descent for AVI, temporal difference methods, Q-learning. Overview of key intrinsic challenges in RL.  
+**Chapter 4: From fitted Q-iteration to deep Q-networks**  
+fitted Q-iteration, neural network architecture for value functions, DQN, improvements on DQN.  
 **Chapter 5: Continuous actions in DQN algorithms**  
 From DDPG to SAC.  
 **Chapter 6: Direct policy search and policy gradient methods**  
@@ -36,11 +36,11 @@ Notebooks for the first 6 chapters are accessible at [https://github.com/erachel
 The schedule is designed around 3-hours sessions. It might be adjusted depending on the progression of classes.
 
 Session 1: chapters 0 and 1.  
-Session 2: chapter 2 and 3.  
-Session 3: chapter 4.  
-Session 4: chapter 5.  
-Session 5: chapter 6.  
-Session 6 is kept unassigned for now, to preserve the possibility to use it as a buffer to avoid rushing through previous sessions.  
+Session 2: chapter 2.  
+Session 3: chapter 3.  
+Session 4: chapter 4.  
+Session 5: chapter 5.  
+Session 6: chapter 6.  
 Session 7 and 8: stochastic bandits, monte carlo tree search and alphaGo.  
 
 ## Homework
